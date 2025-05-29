@@ -87,6 +87,45 @@ PySimpleGUI to biblioteka upraszczająca tworzenie graficznych interfejsów uży
 ### Instalacja (z wymuszeniem najnowszej wersji oraz niestandardowym repozytorium):
 <pre> python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGUI  </pre>
 
+---
+
+## Faker
+
+**Nazwa:** Faker  
+**Autor:** Daniele Faraglia, społeczność open source  
+**Pierwsze wydanie:** 2012  
+**Licencja:** MIT  
+
+### Przeznaczenie  
+Faker to biblioteka do generowania losowych, fikcyjnych danych do celów testowych, prezentacyjnych i developerskich. Może tworzyć dane osobowe, adresowe, finansowe, firmowe, internetowe i wiele innych. Obsługuje różne języki i lokalizacje.
+
+### Główne funkcje  
+- Generowanie danych osobowych: imię, nazwisko, PESEL, e-mail, numer telefonu  
+- Tworzenie adresów, miast, województw, kodów pocztowych  
+- Generowanie danych firmowych: nazwy firm, NIP/VAT, IBAN  
+- Tworzenie danych internetowych: loginy, domeny, adresy IP  
+- Tworzenie dat, tekstów, liczb i identyfikatorów  
+- Obsługa wielu lokalizacji (np. pl_PL, en_US, de_DE)  
+- Możliwość rozszerzenia o własne providery danych  
+
+### Zalety  
+- Bardzo prosty w użyciu, niski próg wejścia  
+- Obsługuje wiele kategorii danych i języków  
+- Przydatny do testowania aplikacji, baz danych i API  
+- Możliwość integracji z Pandas, CSV, JSON  
+- Aktywnie rozwijany i dobrze udokumentowany  
+
+### Wady  
+- Dane są fikcyjne i niespójne logicznie (np. imię ≠ adres e-mail)  
+- Nie wszystkie metody są dostępne w każdej lokalizacji  
+- Brak danych realistycznych/statystycznych  
+- Nie nadaje się do modelowania danych rzeczywistych  
+
+### Wymagania systemowe  
+- Python w wersji 3.6 lub wyższej  
+
+### Instalacja
+<pre>pip install faker</pre>
 
 ---
 
