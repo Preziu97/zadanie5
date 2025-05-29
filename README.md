@@ -43,7 +43,7 @@ SymPy to biblioteka do symbolicznych obliczeń matematycznych, umożliwiająca m
 - Python w wersji 3.6 lub wyższej  
 
 ### Instalacja  
-pip install sympy
+<pre> ```bash pip install sympy ``` </pre>
 
 ### Linki  
 - Dokumentacja: https://docs.sympy.org  
