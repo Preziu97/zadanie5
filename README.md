@@ -131,7 +131,7 @@ Faker to biblioteka do generowania losowych, fikcyjnych danych do celów testowy
 
 ## Podsumowanie
 
-Opisane biblioteki oferują szerokie możliwości — SymPy skupia się na obliczeniach symbolicznych, a PySimpleGUI pozwala szybko tworzyć interfejsy użytkownika. Wybór i zastosowanie zależy od potrzeb konkretnego projektu.
+Opisane biblioteki oferują szerokie możliwości — SymPy skupia się na obliczeniach symbolicznych, PySimpleGUI pozwala szybko tworzyć interfejsy użytkownika, a Faker ułatwia generowanie realistycznie wyglądających, fikcyjnych danych do testów i prototypowania. Wybór i zastosowanie zależy od potrzeb konkretnego projektu.
 
 ---
 
