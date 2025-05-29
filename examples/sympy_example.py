@@ -1,4 +1,4 @@
-import sympy as sp  # Import Biblioteki SymPy z aliasem sp
+import sympy as sp  
 
 # Tworzymy symbole matematyczne x, y, z
 x, y, z = sp.symbols('x y z')
