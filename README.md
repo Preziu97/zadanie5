@@ -43,7 +43,7 @@ SymPy to biblioteka do symbolicznych obliczeń matematycznych, umożliwiająca m
 - Python w wersji 3.6 lub wyższej  
 
 ### Instalacja  
-<pre> ```bash pip install sympy ``` </pre>
+<pre> pip install sympy </pre>
 
 ### Linki  
 - Dokumentacja: https://docs.sympy.org  
@@ -85,7 +85,7 @@ PySimpleGUI to biblioteka upraszczająca tworzenie graficznych interfejsów uży
 - Python w wersji 3.6 lub wyższej  
 
 ### Instalacja (z wymuszeniem najnowszej wersji oraz niestandardowym repozytorium):**  
-python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+<pre> python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGUI  </pre>
 
 
 ---
